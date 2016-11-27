@@ -1,2 +1,2 @@
 # hello-wrold
-Maybe my first repo
+This is a tutorial for GitHub :)
